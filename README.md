@@ -22,14 +22,13 @@ Here are some highlighted projects I've been working on:
 3. **Money-Tracker-App**
    - https://github.com/codewithharshal/Money-Tracker-App
 
-4. **Chatting-Application**
-   - https://github.com/codewithharshal/chatting-app
 
 ### My Skills
 - Html
 - Css
 - JavaScript
-- Tailwind
+- Tailwindcss
+- BootStrap
 - ReactJs
 - Nodejs
 - MongoDB
