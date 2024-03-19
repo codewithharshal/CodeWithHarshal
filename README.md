@@ -1,4 +1,4 @@
-# CodWithHarshal
+# CodeWithHarshal
 
 ## Welcome to My GitHub Profile! 👋
 
