@@ -3,7 +3,7 @@
 ## Welcome to My GitHub Profile! 👋
 
 ### About Me
-I'm Harshal Sewatkar, a passionate Web Devloper. who loves to make websites. My journey in the world of Web Devlopment has been exciting, and I'm thrilled to share some of my projects and contributions with you here.
+I'm Harshal, a passionate Web Devloper. who loves to make websites. My journey in the world of Web Devlopment has been exciting, and I'm thrilled to share some of my projects and contributions with you here.
 
 ### What I Do
 - 🔭 I’m currently learning Something.
