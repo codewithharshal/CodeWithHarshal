@@ -5,33 +5,6 @@
 ### About Me
 I'm Harshal, a passionate Web Devloper. who loves to make websites. My journey in the world of Web Devlopment has been exciting, and I'm thrilled to share some of my projects and contributions with you here.
 
-### What I Do
-- 🔭 I’m currently learning Something.
-- 👯 I’m looking to collaborate on some open source projects..
-- 📫 How to reach me: www.linkedin.com/in/harshalsewatkar
-
-### Featured Projects
-Here are some highlighted projects I've been working on:
-
-1. **SignUp-Form**
-   - https://github.com/codewithharshal/SignUpForm
-
-2. **Blog-Website**
-   - https://github.com/codewithharshal/blogwebsite
-
-3. **Money-Tracker-App**
-   - https://github.com/codewithharshal/Money-Tracker-App
-
-
-### My Skills
-- Html
-- Css
-- JavaScript
-- Tailwindcss
-- BootStrap
-- Nodejs
-- MongoDB
-
 ### Languages and Tools:
 <p align="left"> 
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
