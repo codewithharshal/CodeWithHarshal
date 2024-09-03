@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">I love combining tech and art to bring unique ideas to life. Right now, I’m diving into AI and machine learning 🤖 to push the boundaries of interactive experiences and explore what’s possible!</h6>
+<h5 align="left">I love combining tech and art to bring unique ideas to life. Right now, I’m diving into AI and machine learning 🤖 to push the boundaries of interactive experiences and explore what’s possible!</h5>
 
 ###
 
