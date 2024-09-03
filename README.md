@@ -2,11 +2,11 @@
 
 ###
 
-<h5 align="left">As an AI artist and game developer, I have experience working with game engines like Unity, Unreal Engine🎮. I'm also skilled in using creative tools such as Blender, Canva🎨, inkscrap, cascadure, marvlous designer.</h5>
+<h4 align="left">As an AI artist and game developer, I have experience working with game engines like Unity, Unreal Engine🎮. I'm also skilled in using creative tools such as Blender, Canva🎨, inkscrap, cascadure, marvlous designer.</h4>
 
 ###
 
-<h5 align="left">I love combining tech and art to bring unique ideas to life. Right now, I’m diving into AI and machine learning 🤖 to push the boundaries of interactive experiences and explore what’s possible!</h5>
+<h4 align="left">I love combining tech and art to bring unique ideas to life. Right now, I’m diving into AI and machine learning 🤖 to push the boundaries of interactive experiences and explore what’s possible!</h4>
 
 ###
 
