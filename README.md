@@ -54,6 +54,8 @@
 
 ###
 
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -64,13 +66,8 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611zhvwk1gg74627xf5e9exfrh70c81d30hfjtpx83w&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
 <br clear="both">
+
 <img src="https://raw.githubusercontent.com/codewithharshal/codewithharshal/output/snake.svg" alt="Snake animation" />
-###
-###
-![snake gif](https://github.com/codewithharshal/codewithharshal/blob/output/github-contribution-grid-snake.gif)
+
 ###
