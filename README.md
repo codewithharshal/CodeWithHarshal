@@ -69,7 +69,8 @@
 ###
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/codewithharshal/codewithharshal/output/snake.svg" alt="Snake animation" />
-
+###
+###
+![snake gif](https://github.com/codewithharshal/codewithharshal/blob/output/github-contribution-grid-snake.gif)
 ###
