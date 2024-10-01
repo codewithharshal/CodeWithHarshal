@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">As an ML/DS Explorer and game developer, I have experience working with game engines like Unity, Unreal Engine🎮. I'm also skilled in using creative tools such as Blender, Canva🎨, inkscrap, cascadure.</h4>
+<h4 align="left">As an ML/DS Explorer and game developer, I have experience working with game engine like Unity🎮. I'm also skilled in using creative tools such as Blender, Canva🎨, inkscrap, cascadure.</h4>
 
 ###
 
@@ -42,8 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
   <img width="12" />
