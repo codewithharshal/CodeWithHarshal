@@ -1,8 +1,5 @@
 <h4 align="left">Hey there! 👋 I'm Hashal — an IT student passionate about technology and creativity. 💻</h4>
 
-###
-
-<h4 align="left">As an ML/DS Explorer and game developer, I have experience working with game engine like Unity🎮. I'm also skilled in using creative tools such as Blender, Canva🎨, inkscrap, cascadure.</h4>
 
 ###
 
