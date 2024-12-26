@@ -3,7 +3,7 @@
 
 ###
 
-<h4 align="left">I love combining tech and art to bring unique ideas to life. Right now, I’m diving into Machine learning and Data science 🤖 to push the boundaries of interactive experiences and explore what’s possible!</h4>
+<h4 align="left">I love combining tech and art to bring unique ideas to life.</h4>
 
 ###
 
