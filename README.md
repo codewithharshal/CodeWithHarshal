@@ -3,7 +3,7 @@
 
 ###
 
-<h4 align="left">I love combining tech and art to bring unique ideas to life.</h4>
+<h4 align="left">Hi, I’m a Web Developer fueled by curiosity and a deep passion for Machine Learning and Data Science. I thrive on creating efficient web solutions while exploring the transformative potential of intelligent technologies. What I may not know today, I am dedicated to mastering through persistence, hard work, and a continuous drive to learn and grow.</h4>
 
 ###
 
