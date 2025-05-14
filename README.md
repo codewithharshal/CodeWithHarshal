@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Mail-D70040?style=for-the-badge&logo=mail)](mailto:harshalself7@gmail.com)" height="40" alt="twitter logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/My%20Profile%20blue)](https://github.com/codewithharshal)" height="40" alt="twitter logo"  />
+  
 </div>
 
 
