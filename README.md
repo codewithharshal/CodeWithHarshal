@@ -2,7 +2,8 @@
 
 ###
 
-<h4 align="left">Hello World!,👋 I'm Hashal — an IT student passionate about technology and creativity. 💻:</h4>
+<h4 align="left">Hi there! 👋  <br>
+I'm Harshal — An IT student who loves coding, designing, and exploring new tech. 🚀</h4>
 
 ###
 
