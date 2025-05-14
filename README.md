@@ -11,18 +11,36 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn logo" />
+  </a>
   <img width="12" />
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" height="40" alt="twitter logo"  />
+
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" height="40" alt="Twitter logo" />
+  </a>
   <img width="12" />
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="40" alt="twitter logo"  />
+
+  <a href="https://www.hackerrank.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="40" alt="HackerRank logo" />
+  </a>
   <img width="12" />
-  <img src="https://img.shields.io/badge/LeetCode-FFC500?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="40" alt="twitter logo"  />
+
+  <a href="https://leetcode.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFC500?style=for-the-badge&logo=LeetCode&logoColor=black" height="40" alt="LeetCode logo" />
+  </a>
   <img width="12" />
-  <img src="https://img.shields.io/badge/Mail-D70040?style=for-the-badge&logo=mail)](mailto:harshalself7@gmail.com)" height="40" alt="twitter logo"  />
+
+  <a href="mailto:harshalself7@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-D70040?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Mail logo" />
+  </a>
   <img width="12" />
-  
+
+  <a href="https://example.com/your-resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge" height="40" alt="Resume badge" />
+  </a>
 </div>
+
 
 
 ###
