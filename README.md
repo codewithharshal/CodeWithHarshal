@@ -19,9 +19,9 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/LeetCode-FFC500?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="40" alt="twitter logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Mail-ffffff?style=for-the-badge&logo=mail)](mailto:harshalself7@gmail.com)" height="40" alt="twitter logo"  />
+  <img src="https://img.shields.io/badge/Mail-D70040?style=for-the-badge&logo=mail)](mailto:harshalself7@gmail.com)" height="40" alt="twitter logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/My%20Profile-blue)](https://github.com/yourusername" height="40" alt="twitter logo"  />
+  <img src="https://img.shields.io/badge/My%20Profile%20blue)](https://github.com/codewithharshal)" height="40" alt="twitter logo"  />
 </div>
 
 
@@ -29,6 +29,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codewithharshal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithharshal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
