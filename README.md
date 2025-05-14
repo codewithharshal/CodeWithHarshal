@@ -1,4 +1,4 @@
-<img src="Banner.png" alt="GitHub Banner" width="100%" />
+<img src="Banner.jpg" alt="GitHub Banner" width="100%" />
 
 # Hello World!,👋 I'm Hashal — an IT student passionate about technology and creativity. 💻👋🏼:
 🛜 I’m a Web Developer fueled by curiosity and a deep passion for Machine Learning and Data Science. I thrive on creating efficient web solutions while exploring the transformative potential of intelligent technologies. What I may not know today, I am dedicated to mastering through persistence, hard work, and a continuous drive to learn and grow.
