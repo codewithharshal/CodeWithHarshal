@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" height="40" alt="twitter logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="40" alt="twitter logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="40" alt="twitter logo"  />
 </div>
 
 ###
