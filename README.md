@@ -17,8 +17,13 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="40" alt="twitter logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="40" alt="twitter logo"  />
+  <img src="https://img.shields.io/badge/LeetCode-FFC500?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="40" alt="twitter logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Mail-ffffff?style=for-the-badge&logo=mail)](mailto:harshalself7@gmail.com)" height="40" alt="twitter logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/My%20Profile-blue)](https://github.com/yourusername" height="40" alt="twitter logo"  />
 </div>
+
 
 ###
 
