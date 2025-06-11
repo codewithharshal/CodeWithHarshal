@@ -12,7 +12,7 @@ I'm Harshal — An IT student who loves coding, designing, and exploring new tec
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/harshalsewatkar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn logo" />
   </a>
   <img width="12" />
@@ -27,12 +27,12 @@ I'm Harshal — An IT student who loves coding, designing, and exploring new tec
   </a>
   <img width="12" />
 
-  <a href="mailto:harshalself7@gmail.com">
+  <a href="mailto:harshalsewatkar971@gmail.com">
     <img src="https://img.shields.io/badge/Mail-D70040?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Mail logo" />
   </a>
   <img width="12" />
 
-  <a href="https://example.com/your-resume.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1B1gR_K8xOOZlFA5szslOATygQqzTDYqK/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge" height="40" alt="Resume badge" />
   </a>
   <img width="12" />
