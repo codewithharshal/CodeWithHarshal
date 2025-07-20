@@ -17,11 +17,6 @@ I'm Harshal — An IT student who loves coding, designing, and exploring new tec
   </a>
   <img width="12" />
 
-  <a href="https://example.com/your-resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-008000?style=for-the-badge" height="40" alt="Resume badge" />
-  </a>
-  <img width="12" />
-
   <a href="https://leetcode.com/yourhandle" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFC500?style=for-the-badge&logo=LeetCode&logoColor=black" height="40" alt="LeetCode logo" />
   </a>
