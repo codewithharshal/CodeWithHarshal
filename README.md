@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Data Structures & Algorithms in C++ to strengthen my problem-solving skills.<br>⚡ In my free time I experiment with 3D design, watch tech series, or brainstorm new app ideas.</p>
+<p align="left">📚 I'm currently learning Data Structures & Algorithms in C++ to strengthen my problem-solving skills.<br>⚡ In my free time I experiment with 3D design, play game, watch movies, series, or brainstorm new app ideas.</p>
 
 ###
 
