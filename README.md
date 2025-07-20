@@ -7,8 +7,17 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/harshalsewatkar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  </a>
+  <a href="https://leetcode.com/your-username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode logo" />
+  </a>
+  <a href="https://codeforces.com/profile/your-username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Codeforces logo" />
+  </a>
 </div>
+
 
 ###
 
