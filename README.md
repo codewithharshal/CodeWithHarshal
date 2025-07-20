@@ -1,3 +1,5 @@
+<br clear="both">
+
 <img align="left" height="250" src="https://images.unsplash.com/photo-1454789548928-9efd52dc4031?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dGVjaG5vbG9neXxlbnwwfDJ8MHx8fDA%3D"  />
 
 ###
@@ -16,11 +18,15 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithharshal&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -67,6 +73,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/codewithharshal/codewithharshal/output/snake.svg" alt="Snake animation" />
 
