@@ -2,20 +2,26 @@
 
 ###
 
-<h4 align="left">Hi there! 👋  <br>
-I'm Harshal — An IT student who loves coding, designing, and exploring new tech. 🚀</h4>
+<h4 align="left">Hello World!,👋 I'm Hashal — an IT student passionate about technology and creativity. 💻👋🏼:</h4>
 
 ###
 
 <h6 align="left">I’m a Web Developer fueled by curiosity and a deep passion for Machine Learning and Data Science. I thrive on creating efficient web solutions while exploring the transformative potential of intelligent technologies. What I may not know today, I am dedicated to mastering through persistence, hard work, and a continuous drive to learn and grow.</h6>
 
 ###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
+
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithharshal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithharshal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithharshal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithharshal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=codewithharshal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=codewithharshal&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithharshal&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -66,10 +72,12 @@ I'm Harshal — An IT student who loves coding, designing, and exploring new tec
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithharshal/codewithharshal/output/snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithharshal/codewithharshal/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codewithharshal/codewithharshal/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/codewithharshal/codewithharshal/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=codewithharshal.codewithharshal&"  />
+</div>
 
 ###
