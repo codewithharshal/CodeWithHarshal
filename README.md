@@ -10,35 +10,6 @@ I'm Harshal — An IT student who loves coding, designing, and exploring new tec
 <h6 align="left">I’m a Web Developer fueled by curiosity and a deep passion for Machine Learning and Data Science. I thrive on creating efficient web solutions while exploring the transformative potential of intelligent technologies. What I may not know today, I am dedicated to mastering through persistence, hard work, and a continuous drive to learn and grow.</h6>
 
 ###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/harshalsewatkar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://leetcode.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFC500?style=for-the-badge&logo=LeetCode&logoColor=black" height="40" alt="LeetCode logo" />
-  </a>
-  <img width="12" />
-
-  <a href="mailto:harshalsewatkar971@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-D70040?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Mail logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://drive.google.com/file/d/1B1gR_K8xOOZlFA5szslOATygQqzTDYqK/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge" height="40" alt="Resume badge" />
-  </a>
-  <img width="12" />
-
-  <a href="https://example.com/your-resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Codechef-brown?style=for-the-badge" height="40" alt="Resume badge" />
-  </a>
-</div>
-
-
-
 ###
 
 <div align="center">
